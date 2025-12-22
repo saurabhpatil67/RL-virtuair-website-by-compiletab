@@ -29,10 +29,21 @@ https://saurabhpatil67.github.io/RL-virtuair-website-by-compiletab/
 
 ### 📱 Mobile View
 
-![Mobile View 1](./src/ReadmeImage/p1.png)
-![Mobile View 2](./src/ReadmeImage/p2.png)
-![Mobile View 3](./src/ReadmeImage/p3.png)
-![Mobile View 4](./src/ReadmeImage/p5.png)
+<p align="center">
+  <img src="./src/ReadmeImage/p1.png" width="300" />
+</p>
+
+<p align="center">
+  <img src="./src/ReadmeImage/p2.png" width="300" />
+</p>
+
+<p align="center">
+  <img src="./src/ReadmeImage/p3.png" width="300" />
+</p>
+
+<p align="center">
+  <img src="./src/ReadmeImage/p5.png" width="300" />
+</p>
 
 ---
 
