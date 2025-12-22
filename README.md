@@ -17,15 +17,33 @@ https://saurabhpatil67.github.io/RL-virtuair-website-by-compiletab/
 
 ## 📸 Project Screenshots
 
+
 ### 🖥️ Desktop View
 
-![Desktop View 1](./src/ReadmeImage/image1.png)
-![Desktop View 2](./src/ReadmeImage/image2.png)
-![Desktop View 3](./src/ReadmeImage/image3.png)
-![Desktop View 4](./src/ReadmeImage/image4.png)
-![Desktop View 5](./src/ReadmeImage/image5.png)
+
+<p align="center">
+  <img src="./src/ReadmeImage/page1.png" width="800" />
+</p>
+
+<p align="center">
+  <img src="./src/ReadmeImage/page2.png" width="800" />
+</p>
+
+<p align="center">
+  <img src="./src/ReadmeImage/page3.png" width="800" />
+</p>
+
+<p align="center">
+  <img src="./src/ReadmeImage/page4.png" width="800" />
+</p>
+
+<p align="center">
+  <img src="./src/ReadmeImage/page5.png" width="800" />
+</p>
+
 
 ---
+
 
 ### 📱 Mobile View
 
