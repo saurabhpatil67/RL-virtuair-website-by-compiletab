@@ -8,10 +8,7 @@ This project focuses on clean UI, responsive design, and component-based archite
 ## 🌍 Live Demo
 
 🔗 **Live Website:**  
-https://saurabhpatil67.github.io/RL-virtuair-website-by-compiletab/
-
-> ⚠️ Note: This project is currently hosted on GitHub Pages.  
-> It will be migrated to **Vercel** for deployment soon.
+willowy-speculoos-89069c.netlify.app
 
 ---
 
