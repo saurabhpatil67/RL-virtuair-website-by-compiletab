@@ -8,7 +8,7 @@ This project focuses on clean UI, responsive design, and component-based archite
 ## 🌍 Live Demo
 
 🔗 **Live Website:**  
-willowy-speculoos-89069c.netlify.app
+[willowy-speculoos-89069c.netlify.app](https://willowy-speculoos-89069c.netlify.app/)
 
 ---
 
